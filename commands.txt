@@ -1,0 +1,12 @@
+EVERYTHING BELOW IS DONE IN CMD OR POWERSHELL
+
+1. navigate to file directory in CMD or PowerShell (using cd ... )
+
+2. g++ -std=c++17 main.cpp cli.cpp cart.cpp fileio.cpp -o foodapp.exe //compile the program.
+
+3. .\foodapp.exe //run the app in interactive mode
+
+4. .\foodapp.exe --help //command line in order to get all the command lines implemented so far.
+
+nagivate to app: 
+cd /c/Users/sosim/Desktop/FoodApp
